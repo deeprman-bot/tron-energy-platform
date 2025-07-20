@@ -3,7 +3,7 @@
 ## 项目概述
 
 TRX 能量租赁平台是一个基于 TRON 区块链的 Telegram Bot 服务，为用户提供便捷的能量租赁功能。通过 Telegram 机器人界面，用户可以快速租赁 TRON 能量，降低链上交易成本。
-[![Telegram](https://img.shields.io/badge/Telegram-立即体验-0088cc)](https://t.me/TRX360VIPbot)
+[![Telegram](https://img.shields.io/badge/Telegram-立即体验-0088cc)](https://t.me/TRX360VIPbot?start=ru813r)
 
 ## 主要功能
 
@@ -148,5 +148,4 @@ TRX 能量租赁平台是一个基于 TRON 区块链的 Telegram Bot 服务，�
 *通过 Telegram Bot 简化 TRON 能量租赁操作*
 
 **欢迎体验和参与项目开发**
-
-[体验 Bot](https://t.me/TRX360VIPbot) | [技术交流](https://t.me/deeprman) 
+[体验 Bot](https://t.me/TRX360VIPbot?start=ru813r) | [技术交流](https://t.me/deeprman) 
